@@ -1,0 +1,5 @@
+{
+  "name": "DNUE Signal Timer",
+  "description": "A real-time pedestrian signal timer for major crosswalks around Daegu National University of Education, with AI-powered data validation.",
+  "requestFramePermissions": []
+}
